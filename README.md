@@ -84,4 +84,4 @@ The system includes:
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+Thus the optiperformer has been installed successfully and sample file has been run
