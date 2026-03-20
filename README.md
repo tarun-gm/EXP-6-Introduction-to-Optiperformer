@@ -63,25 +63,8 @@ The system includes:
 ---
 
 ## Tabulation
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/09fe30bc-a8f5-4bec-9df8-095c02430b91" />
 
-**Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-
----
-
-## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
-
----
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+Thus the optiperformer has been installed successfully and sample file has been run
