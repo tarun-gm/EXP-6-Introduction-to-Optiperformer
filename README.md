@@ -50,6 +50,7 @@ The system includes:
 8. The simulation runs 5 iterations with fiber length varying from 50 to 150 km.  
    - Use forward/reverse buttons to step through iterations.  
    - Observe changes in received power, BER, Q factor, and eye diagram.
+<img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/b4471a94-2382-41a0-94c7-824567af34ec" />
 
 ---
 
@@ -64,6 +65,8 @@ The system includes:
 
 ## Tabulation
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/164dbcde-9005-4994-bca5-3a35917d1246" />
+## model graph 
+<img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/ce09035e-369a-4ba2-b300-5f7a5c76f67f" />
 
 
 ## RESULT
